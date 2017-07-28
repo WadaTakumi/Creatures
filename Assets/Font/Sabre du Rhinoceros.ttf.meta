@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8d199668a4c73aa4687583dd88e533e0
+timeCreated: 1492113523
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sabre du Rhinoceros
+  fontNames:
+  - Sabre du Rhinoceros
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

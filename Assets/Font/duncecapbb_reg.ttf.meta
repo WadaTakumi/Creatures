@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: bf94c6b41da1fc9408ce0d32d28cade6
+timeCreated: 1488268346
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DunceCap BB
+  fontNames:
+  - DunceCap BB
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
