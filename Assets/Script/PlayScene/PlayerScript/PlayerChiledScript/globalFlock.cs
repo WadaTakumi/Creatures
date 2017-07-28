@@ -21,7 +21,7 @@ public class globalFlock : MonoBehaviour
     public GameObject goalPrefab;
     public static int tankSize = 5;
     // フォロワーの数
-    static int numFish = 7;
+    static int numFish = 6;
     public static GameObject[] allFish = new GameObject[numFish];
     // 到着地点
     public static Vector2 goalPos = Vector2.zero;
@@ -41,7 +41,7 @@ public class globalFlock : MonoBehaviour
         {
             // ランダムでプレデターの初期位置を生成
             Vector3 pos = new Vector3(Random.Range(-tankSize, tankSize),
-                                      Random.Range(-tankSize, 0),
+                                      Random.Range(-5, -7),
                                       Random.Range(-tankSize, tankSize));
             allFish[i] = (GameObject)Instantiate(fishPrefab, pos, Quaternion.identity);
             // Hierarchy上でまとめる

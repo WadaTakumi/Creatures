@@ -17,10 +17,33 @@ Platform assembly: C:\Users\s152237\Desktop\就活\ソルトライブ\2\就職�
 Loading C:\Users\s152237\Desktop\就活\ソルトライブ\2\就職作品\Creatures\Creatures_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: C:\Users\s152237\Desktop\就活\ソルトライブ\2\就職作品\Creatures\Creatures_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading C:\Users\s152237\Desktop\就活\ソルトライブ\2\就職作品\Creatures\Creatures_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.029 seconds
+- Completed reload, in  0.046 seconds
 Platform assembly: C:\Users\s152237\Desktop\就活\ソルトライブ\2\就職作品\Creatures\Creatures_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\s152237\Desktop\就活\ソルトライブ\2\就職作品\Creatures\Creatures_Data\Managed\System.dll (this message is harmless)
-desktop: 1920x1080 60Hz; virtual: 1920x2160 at 0,-1080
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.091938 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3ae8 -> priority: 1 
+  Thread -> id: 18cc -> priority: 1 
+The class named 'InfluenceMap' is not derived from MonoBehaviour or ScriptableObject!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour (Game Object 'Player') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.102187 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 992.
+Total: 1.793580 ms (FindLiveObjects: 0.073128 ms CreateObjectMapping: 0.084675 ms MarkObjects: 0.481110 ms  DeleteObjects: 1.153382 ms)
+
